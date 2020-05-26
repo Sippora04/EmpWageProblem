@@ -1,4 +1,4 @@
-echo "Welcome to Employee Wage Computation "
+echo "Welcome to Emp Wage Computation/Problem "
 IS_PART_TIME=1;
 IS_FULL_TIME=2;
 EMP_RATE_PER_HR=20;
