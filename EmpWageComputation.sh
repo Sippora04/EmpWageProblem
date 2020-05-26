@@ -1,4 +1,3 @@
-echo "Welcome to Employee Wage Computation"
 IS_PART_TIME=1;
 IS_FULL_TIME=2;
 EMP_RATE_PER_HR=20;
